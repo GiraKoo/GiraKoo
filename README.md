@@ -11,4 +11,6 @@ Chinese, English or Janpanese is available.
 
 EMAIL: [girakoo@163.com](mailto:girakoo@163.com)
 
-![GiraKoo's logo](https://girakoo.com/img/logo.png)
+Home page: https://girakoo.com/
+
+![GiraKoo's logo](https://girakoo.com/img/logo.png)  
